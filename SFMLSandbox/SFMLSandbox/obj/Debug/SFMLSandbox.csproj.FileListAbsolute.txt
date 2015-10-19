@@ -8,3 +8,9 @@ C:\Users\JorgeLetria\Documents\GitHubVisualStudio\OgreSandbox\SFMLSandbox\SFMLSa
 C:\Users\JorgeLetria\Documents\GitHubVisualStudio\OgreSandbox\SFMLSandbox\SFMLSandbox\obj\Debug\SFMLSandbox.exe
 C:\Users\JorgeLetria\Documents\GitHubVisualStudio\OgreSandbox\SFMLSandbox\SFMLSandbox\obj\Debug\SFMLSandbox.pdb
 C:\Users\JorgeLetria\Documents\GitHubVisualStudio\OgreSandbox\SFMLSandbox\SFMLSandbox\obj\Debug\SFMLSandbox.csprojResolveAssemblyReference.cache
+X:\Home\Documents\GitHubVisualStudio\SFMLSandbox\SFMLSandbox\SFMLSandbox\bin\Debug\SFMLSandbox.exe.config
+X:\Home\Documents\GitHubVisualStudio\SFMLSandbox\SFMLSandbox\SFMLSandbox\bin\Debug\SFMLSandbox.exe
+X:\Home\Documents\GitHubVisualStudio\SFMLSandbox\SFMLSandbox\SFMLSandbox\bin\Debug\SFMLSandbox.pdb
+X:\Home\Documents\GitHubVisualStudio\SFMLSandbox\SFMLSandbox\SFMLSandbox\obj\Debug\SFMLSandbox.csprojResolveAssemblyReference.cache
+X:\Home\Documents\GitHubVisualStudio\SFMLSandbox\SFMLSandbox\SFMLSandbox\obj\Debug\SFMLSandbox.exe
+X:\Home\Documents\GitHubVisualStudio\SFMLSandbox\SFMLSandbox\SFMLSandbox\obj\Debug\SFMLSandbox.pdb
