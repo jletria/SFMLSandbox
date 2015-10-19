@@ -1,0 +1,1 @@
+copy /Y SFML\* SFMLGui\bin\Debug\

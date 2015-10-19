@@ -1,0 +1,10 @@
+C:\Users\JorgeLetria\Documents\GitHubVisualStudio\OgreSandbox\SFMLSandbox\SFMLSandbox\bin\Debug\SFMLSandbox.exe.config
+C:\Users\JorgeLetria\Documents\GitHubVisualStudio\OgreSandbox\SFMLSandbox\SFMLSandbox\bin\Debug\SFMLSandbox.exe
+C:\Users\JorgeLetria\Documents\GitHubVisualStudio\OgreSandbox\SFMLSandbox\SFMLSandbox\bin\Debug\SFMLSandbox.pdb
+C:\Users\JorgeLetria\Documents\GitHubVisualStudio\OgreSandbox\SFMLSandbox\SFMLSandbox\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\JorgeLetria\Documents\GitHubVisualStudio\OgreSandbox\SFMLSandbox\SFMLSandbox\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\JorgeLetria\Documents\GitHubVisualStudio\OgreSandbox\SFMLSandbox\SFMLSandbox\bin\Debug\sfmlnet-system-2.dll
+C:\Users\JorgeLetria\Documents\GitHubVisualStudio\OgreSandbox\SFMLSandbox\SFMLSandbox\bin\Debug\sfmlnet-window-2.dll
+C:\Users\JorgeLetria\Documents\GitHubVisualStudio\OgreSandbox\SFMLSandbox\SFMLSandbox\obj\Debug\SFMLSandbox.exe
+C:\Users\JorgeLetria\Documents\GitHubVisualStudio\OgreSandbox\SFMLSandbox\SFMLSandbox\obj\Debug\SFMLSandbox.pdb
+C:\Users\JorgeLetria\Documents\GitHubVisualStudio\OgreSandbox\SFMLSandbox\SFMLSandbox\obj\Debug\SFMLSandbox.csprojResolveAssemblyReference.cache

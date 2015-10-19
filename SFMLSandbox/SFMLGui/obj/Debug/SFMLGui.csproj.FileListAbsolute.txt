@@ -1,0 +1,16 @@
+C:\Users\JorgeLetria\Documents\GitHubVisualStudio\OgreSandbox\SFMLSandbox\SFMLGui\bin\Debug\SFMLGui.exe.config
+C:\Users\JorgeLetria\Documents\GitHubVisualStudio\OgreSandbox\SFMLSandbox\SFMLGui\bin\Debug\SFMLGui.exe
+C:\Users\JorgeLetria\Documents\GitHubVisualStudio\OgreSandbox\SFMLSandbox\SFMLGui\bin\Debug\SFMLGui.pdb
+C:\Users\JorgeLetria\Documents\GitHubVisualStudio\OgreSandbox\SFMLSandbox\SFMLGui\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\JorgeLetria\Documents\GitHubVisualStudio\OgreSandbox\SFMLSandbox\SFMLGui\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\JorgeLetria\Documents\GitHubVisualStudio\OgreSandbox\SFMLSandbox\SFMLGui\bin\Debug\sfmlnet-system-2.dll
+C:\Users\JorgeLetria\Documents\GitHubVisualStudio\OgreSandbox\SFMLSandbox\SFMLGui\bin\Debug\sfmlnet-window-2.dll
+C:\Users\JorgeLetria\Documents\GitHubVisualStudio\OgreSandbox\SFMLSandbox\SFMLGui\obj\Debug\SFMLGui.Form1.resources
+C:\Users\JorgeLetria\Documents\GitHubVisualStudio\OgreSandbox\SFMLSandbox\SFMLGui\obj\Debug\SFMLGui.Properties.Resources.resources
+C:\Users\JorgeLetria\Documents\GitHubVisualStudio\OgreSandbox\SFMLSandbox\SFMLGui\obj\Debug\SFMLGui.csproj.GenerateResource.Cache
+C:\Users\JorgeLetria\Documents\GitHubVisualStudio\OgreSandbox\SFMLSandbox\SFMLGui\obj\Debug\SFMLGui.exe
+C:\Users\JorgeLetria\Documents\GitHubVisualStudio\OgreSandbox\SFMLSandbox\SFMLGui\obj\Debug\SFMLGui.pdb
+C:\Users\JorgeLetria\Documents\GitHubVisualStudio\OgreSandbox\SFMLSandbox\SFMLGui\obj\Debug\SFMLGui.csprojResolveAssemblyReference.cache
+C:\Users\JorgeLetria\Documents\GitHubVisualStudio\SFMLSandbox\SFMLSandbox\SFMLGui\bin\Debug\SFMLGui.exe.config
+C:\Users\JorgeLetria\Documents\GitHubVisualStudio\SFMLSandbox\SFMLSandbox\SFMLGui\obj\Debug\SFMLGui.exe
+C:\Users\JorgeLetria\Documents\GitHubVisualStudio\SFMLSandbox\SFMLSandbox\SFMLGui\obj\Debug\SFMLGui.pdb
